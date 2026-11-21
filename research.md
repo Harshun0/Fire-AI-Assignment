@@ -1,27 +1,31 @@
 # The Problem
 
-[Fill in — who is Rahul / Dipanshu (or whichever one), what did you see them do this week]
-Rahul and Dipanshu, students in my college, send cold emails to companies while job-hunting.
-They rarely follow up on these emails — they apply, forget which companies they've mailed,
-and never send a second mail even when there's no reply after several days. Because of this
-they lose chances with companies who might have replied to a follow-up.
+I went to Rahul (my college best friend) and told him about this assignment, then asked him
+what problem he's actually facing right now. He said it's cold mails and follow-ups: he sends
+10–20 cold mails a day to companies while job-hunting, but he loses track of which companies
+he's already mailed, which ones he still needs to follow up with, and which ones have already
+rejected him. Because of this he either follows up late or doesn't follow up at all, even with
+companies that might have replied if he'd pushed once more.
 
 ## The problem in 5 lines
-1. [Line 1 — what exactly did you observe, when]
-2. [Line 2 — how often does it happen / how many mails affected]
-3. [Line 3 — why it matters to them, in their words if possible]
-4. [Line 4 — what they currently do about it, if anything]
-5. [Line 5 — what "fixed" would look like for them]
+1. Rahul sends 10–20 cold mails a day while job-hunting, but keeps no organized record of them.
+2. He loses track of which companies he's already mailed and which he hasn't followed up with.
+3. In his words, the lack of follow-up means he probably misses replies from companies that would
+   have responded to a second mail — he has no clarity on what's pending vs. rejected vs. cold.
+4. Right now he does nothing systematic — no sheet, no reminder, just memory.
+5. "Fixed" means: he can look at one place and immediately know which companies he needs to
+   follow up with today, and which ones have already rejected him so he stops wasting time on them.
 
 ## Existing solutions and why they don't fit
-1. **[e.g. Gmail "Boomerang" / follow-up reminder extensions]** — [why this doesn't fit Rahul/Dipanshu specifically: cost, setup friction, doesn't fit cold-mail workflow, etc.]
-2. **[e.g. Notion/Excel manual tracker]** — [why this doesn't fit: they already don't maintain one, too much manual effort, etc.]
+1. **Gmail follow-up reminder extensions (e.g. Boomerang, Mailtrack)** — this is built for one-off important emails, not for tracking 10-20 cold mails a day across
+   companies with rejection/reply status. Doesn't fit his volume.
+2. **Manual Excel/Notion tracker** — this is the "obvious" fix, but doesn't fit because Rahul
+   already doesn't maintain one — the friction of manually checking a sheet every day and
+   updating it himself is exactly what he's not doing today. A tool that tells him what's due
+   without him checking is a better fit.
 
-## Sources read
-1. **[Source 1 title + link]** — [3-line note on what it says and what you took from it]
-2. **[Source 2 title + link]** — [3-line note on what it says and what you took from it]
 
 ## Person
-Name: [Rahul's full name] / [Dipanshu's full name]
-Role: B.Tech student, [branch], [college name]
-Where: [hostel room / their home / college — walking distance from your home or college]
+Name: Rahul
+Role: B.Tech student, job-hunting, sends 10-20 cold mails/day
+Where: his home, ~1 km from mine — walking distance
