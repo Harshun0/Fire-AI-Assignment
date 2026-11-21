@@ -70,7 +70,9 @@ above are the ones where he hasn't sent a follow-up and it's been 5+ days.
 
 ## Screen recording
 
-[link to 3-minute screen recording here]
+[Demo video](https://drive.google.com/file/d/1IjWB9yo81Wt7a8NRYD4NRavVJPyUowq7/view?usp=sharing)
+
+(Note: ended up ~8 minutes instead of 3 — was explaining things in more detail than needed.)
 
 ## AI chats
 
