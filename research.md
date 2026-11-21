@@ -29,3 +29,17 @@ companies that might have replied if he'd pushed once more.
 Name: Rahul
 Role: B.Tech student, job-hunting, sends 10-20 cold mails/day
 Where: his home, ~1 km from mine — walking distance
+
+## Update after fieldwork
+
+The above was my hypothesis before going to Rahul's place — based on an earlier phone call
+where he mentioned job cold-mails as his problem. When I actually sat with him at his home
+to collect data, the real, current problem turned out to be different: he runs an Instagram
+page and had sent outreach emails/DMs to multiple content creators he wants to hire for it.
+He has the same underlying problem (sent → waiting → needs follow-up/rejected/selected, with
+no organized tracking), but with creators instead of job applications.
+
+I kept the tool's core idea (read a log, tell him who's overdue for a follow-up) but changed
+the data to match what he actually needed: `creator_name, platform, contacted_on,
+followup_sent, status` (status = pending / rejected / selected) instead of job-application
+columns. See [fieldwork.md](fieldwork.md) for the full conversation and what changed the plan.
